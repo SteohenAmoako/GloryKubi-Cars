@@ -1,3 +1,6 @@
+
+![Screenshot (56)](https://github.com/user-attachments/assets/d0f9e006-8815-418e-b536-5b1d3e2761a2)
+
 GloryKubi Cars Created by Glory Appiah Kubu and assisted by SteveTeck
 GloryKubi Cars is a car dealership website designed to showcase a collection of vehicles for sale. The website allows users to browse through a gallery of cars with details such as prices and the option to purchase through external links.
 
@@ -6,7 +9,8 @@ Features
 Technologies Used
 How to Use
 Project Structure
-Contributing
+Contributing![Uploading Screenshot (56).png…]()
+
 License
 Features
 Responsive Design: Built with Tailwind CSS to provide a responsive and user-friendly interface.
